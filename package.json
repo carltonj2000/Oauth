@@ -1,0 +1,20 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "OAth",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Carlton Joseph",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "firebase-admin": "^5.8.2",
+    "mongoose": "^5.0.3",
+    "passport": "^0.4.0",
+    "passport-google-oauth20": "^1.0.0"
+  }
+}
